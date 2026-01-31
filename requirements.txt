@@ -3,3 +3,6 @@ pytest
 black
 wikipedia
 fire
+pydantic
+uvicorn
+fastapi

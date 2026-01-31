@@ -1,4 +1,5 @@
-def sum(x,y):
-    return x+y
+def sum(x, y):
+    return x + y
 
-print(sum(2,2))
+
+print(sum(2, 2))
